@@ -5,7 +5,6 @@
     "keywords": ["laravel-admin", "helpers"],
     "homepage": "https://github.com/laravel-admin-extensions/helpers",
     "license": "MIT",
-    "minimum-stability":"dev",
     "authors": [
         {
             "name": "z-song",
